@@ -1,0 +1,198 @@
+const items=[
+    
+        {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ArB7-GGQfFvetD9KRE8wDLp6-w0lytbBhA&usqp=CAU",
+            price: 10.99,
+          },
+          {
+            name: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ArB7-GGQfFvetD9KRE8wDLp6-w0lytbBhA&usqp=CAU",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 5",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 6",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 7",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 8",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 2",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 2",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 2",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 2",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 2",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 1",
+            description: "Description for Item 1...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 2",
+            description: "Description for Item 2...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+          {
+            name: "Item 3",
+            description: "Description for Item 3...",
+            imageSrc: "item1.jpg",
+            price: 10.99,
+          },
+          {
+            name: "Item 4",
+            description: "Description for Item 4...",
+            imageSrc: "item2.jpg",
+            price: 12.99,
+          },
+
+    
+]
+export default items;

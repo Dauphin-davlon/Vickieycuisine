@@ -1,0 +1,69 @@
+.MenuItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 400px;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .MenuItem:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info {
+    text-align: center;
+  }
+  
+  .name {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .description {
+    max-height: 80px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 10px;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: #007bff;
+    font-size: 1.2rem;
+  }
+  
+  .addToCart {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .addToCart:hover {
+    background-color: #0056b3;
+  }
+  
+
+  .menu-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next row on smaller screens */
+    justify-content: space-evenly; /* Distribute items evenly across the row */
+    gap: 20px; /* Add spacing between items */
+  }
