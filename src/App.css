@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  
+  background-color: rgba(223, 217, 205, 0.451); 
 }
 
 .App-logo {
@@ -14,7 +14,8 @@
   }
 }
 .content {
-  margin-top: 100px; /* Adjust this value to match your navbar's height */
+  margin-top: 80px; /* Adjust this value to match your navbar's height */
+  
 }
 
 .App-header {

@@ -17,7 +17,7 @@ ul {
 
 li {
     display: inline;
-    margin-right: 20px; /* Adjust the spacing between menu items */
+    margin-right: 20px;  /*Adjust the spacing between menu items */
 }
 
 a {
@@ -26,16 +26,7 @@ a {
 }
 
 /* Style the header and navigation bar */
-header {
-    background-color: #f4f4f4; /* Change the background color of the header */
-    padding: 10px 0;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Add a shadow for depth */
-}
 
-nav ul {
-    text-align: right; /* Align the menu items to the right */
-    margin-right: 20px; /* Adjust the spacing from the right edge */
-}
 
 /* Style the navigation links */
 nav a {
