@@ -3,11 +3,15 @@ import './App.css';
 import NavBar from './components/nav';
 import Menu from './components/Menue/menue';
 
+
 function App() {
   return (
     <div className="App">
-      <NavBar/>
-      <Menu/>
+      <NavBar />
+      <div className="content">
+        <Menu />
+        {/* Add other content here */}
+      </div>
     </div>
   );
 }
