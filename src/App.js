@@ -1,10 +1,11 @@
 
 import './App.css';
+import Nav from './components/Nav.js';
 
 function App() {
   return (
-    <div className="App">router shoule work !!!
-
+    <div className="App">
+      <Nav/>
     </div>
   );
 }
