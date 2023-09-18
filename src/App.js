@@ -1,6 +1,6 @@
 
 import './App.css';
-import NavBar from './components/nav';
+import NavBar from './components/NavBar/nav';
 import Menu from './components/Menue/menue';
 import Intro from './components/Intro/intro'
 

@@ -5,10 +5,12 @@
     right: 0;
     padding: auto;
     display: flex;
-    flex-direction : row;
+    flex-direction: row;
     justify-content: space-around;
-    background : rgb(106, 65, 74);
-}
+    background: rgb(106, 65, 74);
+    z-index: 1000; /* Set a higher z-index value to ensure it's on top */
+  }
+  
 /* Reset some default styles for lists and anchors */
 ul {
     list-style-type: none;
