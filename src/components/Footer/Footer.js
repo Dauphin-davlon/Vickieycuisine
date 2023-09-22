@@ -1,22 +1,22 @@
 import React from 'react';
+import "./Footer.css"
 
 function Footer() {
   return (
     <footer>
       <div className="footer-content">
         <div className="business-details">
-          <h2>Business Name</h2>
-          <p>1234 Main Street</p>
-          <p>City, State ZIP</p>
-          <p>Phone: (123) 456-7890</p>
+          <h2>Vickiey's cuisine</h2>
+          <p>155 University Ave</p>
+          <p>Newark, NJ 07102</p>
+          <p>Phone: (908) 398-0649</p> 
           <p>Email: info@example.com</p>
         </div>
         <div className="social-media">
           <h3>Connect with Us</h3>
           <ul>
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">Instagram</a></li>
+
+            <li><a href="https://www.instagram.com/vickieycuisine/?igshid=MzRlODBiNWFlZA%3D%3D">Instagram</a></li>
           </ul>
         </div>
       </div>
@@ -28,3 +28,11 @@ function Footer() {
 }
 
 export default Footer;
+
+
+
+
+
+
+//<li><a href="https://www.instagram.com/vickieycuisine/?igshid=MzRlODBiNWFlZA%3D%3D">Facebook</a></li>
+//<li><a href="https://www.instagram.com/vickieycuisine/?igshid=MzRlODBiNWFlZA%3D%3D">Twitter</a></li>
